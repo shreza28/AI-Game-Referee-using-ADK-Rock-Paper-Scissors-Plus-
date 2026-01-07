@@ -1,0 +1,10 @@
+# Rock-Paper-Scissors-Plus Game Referee Requirements
+# Python 3.8+ required
+
+# Google ADK (install via pip for production with ADK integration)
+# google-adk  # Uncomment when using actual ADK framework
+
+# No external dependencies required for current implementation
+# Uses only Python standard library
+
+
