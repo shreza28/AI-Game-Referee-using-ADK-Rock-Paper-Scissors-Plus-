@@ -13,13 +13,13 @@ An AI-powered chatbot that acts as a referee for an enhanced Rock-Paper-Scissors
 
 ## Features
 
-- ✅ Intelligent move validation and interpretation
-- ✅ Strategic bot AI with smart bomb usage
-- ✅ Complete game state tracking
-- ✅ Clear, conversational interface
-- ✅ Graceful error handling
-- ✅ Match history and summaries
-- ✅ Clean separation: Intent → Logic → Response
+- Intelligent move validation and interpretation
+- Strategic bot AI with smart bomb usage
+- Complete game state tracking
+- Clear, conversational interface
+- Graceful error handling
+- Match history and summaries
+- Clean separation: Intent → Logic → Response
 
 ## Architecture
 
@@ -55,7 +55,7 @@ An AI-powered chatbot that acts as a referee for an enhanced Rock-Paper-Scissors
 └─────────────────────────────────┘
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 rps_game_referee/
@@ -68,7 +68,7 @@ rps_game_referee/
 
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -78,7 +78,7 @@ rps_game_referee/
 
 1. **Clone or download the project**
    ```bash
-   cd assignment upliance
+   git clone https://github.com/shreza28/AI-Game-Referee-using-ADK-Rock-Paper-Scissors-Plus-.git
    ```
 
 2. **Verify Python version**
